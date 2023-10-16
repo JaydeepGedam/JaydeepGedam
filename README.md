@@ -8,17 +8,17 @@
 
 - 🌱 I’m currently exploring **the world of open source**
 
-- 👯 I’m working on 'Nayaan' - smart device for visually impared people [Visit](https://drive.google.com/file/d/1kK1madsm2qv4ahb4mg2eU3asg4nMVoZJ/view?usp=drive_link)
+- 👯 I’m working on 'Nayaan' - smart device for visually impared people [Visit Here](https://drive.google.com/file/d/1kK1madsm2qv4ahb4mg2eU3asg4nMVoZJ/view?usp=drive_link)
 
-- 🤝 I’m working on 'MediFirst' - online pharmacy [Visit](http://jaydeepgedam.pythonanywhere.com/)
+- 🤝 I’m working on 'MediFirst' - online pharmacy [Visit Here](http://jaydeepgedam.pythonanywhere.com/)
 
-- 🤝 Connect me on LinkedIn [https://www.linkedin.com/in/jaydeepgedam/](https://www.linkedin.com/in/jaydeepgedam/)
+- 🤝 Connect me on LinkedIn [Visit Here](https://www.linkedin.com/in/jaydeepgedam/)
 
 - 💬 Ask me about **web develeopment, prompt engineering**
 
 - 📫 How to reach me **jaydeep.gedam444@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/17Yaz37kmiTSbsHoTsge-fSkTbfaR86rV/view?usp=drive_link](https://drive.google.com/file/d/17Yaz37kmiTSbsHoTsge-fSkTbfaR86rV/view?usp=drive_link)
+- 📄 Know about me [Resume](https://drive.google.com/file/d/17Yaz37kmiTSbsHoTsge-fSkTbfaR86rV/view?usp=drive_link)
 
 - ⚡ Fun fact **I am a writer**
 
