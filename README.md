@@ -1,4 +1,4 @@
-![logo](https://github.com/JaydeepGedam/JaydeepGedam/blob/main/banner4.png)
+[logo](https://github.com/JaydeepGedam/JaydeepGedam/blob/main/banner4.png)
 <h1 align="center">Hi 👋, I'm Jaydeep Nitin Gedam</h1>
 <h3 align="center">A passionate web developer and prompt engineer.</h3>
 
