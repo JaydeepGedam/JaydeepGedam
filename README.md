@@ -38,7 +38,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right: 12px;">
-    <img src="https://imgs.search.brave.com/6c1WAldT8LoHwTfVctz6fyxTquRiMsFLkxxbdAo-6TU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/LmxvZ3JvY2tldC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMTIvRXhwcmVz/cy1qcy1hZG9wdGlv/bi1ndWlkZS5wbmc" alt="express" width="40" height="40"/>
+    <img src="https://imgs.search.brave.com/Obh6J_NDmUubwU8PrJreRBv5_JVavMU5hmq3Mjdiv-k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Ym5haWwuaW1nYmlu/LmNvbS8wLzgvMTQv/aW1nYmluLXdlYnNp/dGUtZGV2ZWxvcG1l/bnQtZXhwcmVzcy1q/cy1ub2RlLWpzLWph/dmFzY3JpcHQtbnBt/LXZ1ZS1qcy0wdTYw/WE5xRFlVM3pBNWY1/OXN1a2tpamhHX3Qu/anBn" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -65,7 +65,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/> 
+    <img src="https://imgs.search.brave.com/J5ZJpufpGgK-ocafTsJe_pyuSb83B4XSSXsEw0ocT6M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzM1LzIvdGFpbHdp/bmQtY3NzLWxvZ28t/cG5nX3NlZWtsb2dv/LTM1NDY3NS5wbmc" alt="tailwind" width="40" height="40"/> 
   </a>
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer" style="margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/>
