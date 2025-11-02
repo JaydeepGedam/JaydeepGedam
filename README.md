@@ -38,7 +38,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right: 12px;">
-    <img src="https://imgs.search.brave.com/Obh6J_NDmUubwU8PrJreRBv5_JVavMU5hmq3Mjdiv-k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Ym5haWwuaW1nYmlu/LmNvbS8wLzgvMTQv/aW1nYmluLXdlYnNp/dGUtZGV2ZWxvcG1l/bnQtZXhwcmVzcy1q/cy1ub2RlLWpzLWph/dmFzY3JpcHQtbnBt/LXZ1ZS1qcy0wdTYw/WE5xRFlVM3pBNWY1/OXN1a2tpamhHX3Qu/anBn" alt="express" width="40" height="40"/>
+    <img src="https://imgs.search.brave.com/7vTIE6IWwWDvYpRw7Fy8yQNB2e7VTrvocSro0RZb8O4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL2V4cHJl/c3MtanMxNzIwODk1/NDkzLmxvZ293aWsu/Y29tLndlYnA" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
